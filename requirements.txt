@@ -1,0 +1,4 @@
+# Tkinter is included with the standard Python installer on Windows.
+# Offline Arabic shaping and bidirectional rendering for Tk widgets.
+arabic-reshaper==3.0.0
+python-bidi==0.6.7

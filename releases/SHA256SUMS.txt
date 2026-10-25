@@ -1,0 +1,2 @@
+6adf654fddc9863f9eaf43f8516420a038840a332e0db9e195c99e3d5de8c111  CDriveCleaner.exe
+a7175d69c062bc240d5e953ddd19753e36685f278e7bd9eee3884f266785bbde  CDriveCleaner-Windows-x64.zip

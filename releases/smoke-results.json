@@ -1,0 +1,41 @@
+{
+  "runtime": "Windows Python and EXE under Wine 10, Linux",
+  "real_cleanup_tested": false,
+  "results": [
+    {
+      "language": "ar",
+      "localized_window": true,
+      "exit_code": 0
+    },
+    {
+      "language": "en",
+      "localized_window": true,
+      "exit_code": 0
+    },
+    {
+      "language": "es",
+      "localized_window": true,
+      "exit_code": 0
+    },
+    {
+      "language": "fr",
+      "localized_window": true,
+      "exit_code": 0
+    },
+    {
+      "language": "hi",
+      "localized_window": true,
+      "exit_code": 0
+    },
+    {
+      "language": "tr",
+      "localized_window": true,
+      "exit_code": 0
+    },
+    {
+      "language": "zh_CN",
+      "localized_window": true,
+      "exit_code": 0
+    }
+  ]
+}
